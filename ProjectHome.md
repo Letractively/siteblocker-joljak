@@ -1,0 +1,1 @@
+Website blocker add-on for Internet Explorer
